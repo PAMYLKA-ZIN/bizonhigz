@@ -1,0 +1,12 @@
+{
+  "entry": "./messages/en.json",
+  "entryLocale": "en",
+  "output": "./messages/",
+  "outputLocales": [
+    "en",
+    "be",
+    "la",
+    "ru",
+    "fr"
+  ]
+}
